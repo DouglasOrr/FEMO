@@ -1,0 +1,4 @@
+[submodule "notebooks"]
+	path = notebooks
+	url = git@github.com:DouglasOrr/FEMO.git
+	branch = notebooks
