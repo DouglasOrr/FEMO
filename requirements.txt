@@ -1,0 +1,11 @@
+black
+jupyter
+jupyterlab
+matplotlib
+numpy
+pandas
+pylint
+pytest
+scipy
+seaborn
+soundfile
